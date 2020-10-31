@@ -2,7 +2,7 @@
     "name": "douggonsouza/products",
     "description": "Serviço de gerenciamentos de produtos",
     "type": "library",
-    "license": "BSD-3-Clause License",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Douglas Gonçalves de Souza",
